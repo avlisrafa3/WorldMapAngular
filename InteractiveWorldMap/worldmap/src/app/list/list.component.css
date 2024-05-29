@@ -1,0 +1,30 @@
+#list{
+    z-index: 100000;
+    float: right;
+    position: relative;
+    top: 250px;
+    right: 10%;
+    width: fit-content;
+    height: fit-content;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 25px;
+    background-color: rgb(34, 31, 5);
+    color: rgb(255, 190, 68);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+    color:  orange;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+    color:  rgb(255, 190, 68);
+}
